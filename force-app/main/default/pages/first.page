@@ -1,0 +1,15 @@
+<apex:page >
+    <h6>
+        Hello mumma
+    </h6>
+    <p>
+        hello im in the paragraph tag.
+    </p>
+    <ol>
+        
+    
+    <li>
+    bmw</li>
+    <li>volvo x6</li>
+</ol>
+    </apex:page>
